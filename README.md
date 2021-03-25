@@ -20,13 +20,13 @@ All of this data will be put together into a web application so that the data ma
 
 The web application goes onto the NASA website and scrapes a variety of different data with just the click of a button.  The button that needs to be clicked to do the data scraping as well as some of the scraped data can be viewed in the following image.
 
-![Web Page Image 1]()
+![Web Page Image 1](https://github.com/ForTheGold/Mission-to-Mars/blob/main/resources/mission_to_mars_top.png)
 
 The data that gets scraped is the top article and description from the website viewable above along with the top image and table data about the differences between earth and mars viewable below.  The final image shows scraped images of the mars hemispheres.
 
-![Web Page Image 2]()
+![Web Page Image 2](https://github.com/ForTheGold/Mission-to-Mars/blob/main/resources/mission_to_mars_middle.png)
 
-![Web Page Image 3]()
+![Web Page Image 3](https://github.com/ForTheGold/Mission-to-Mars/blob/main/resources/mission_to_mars_bottom.png)
 
 
 ## Conclusion
