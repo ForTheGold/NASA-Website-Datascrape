@@ -33,4 +33,12 @@ The data that gets scraped is the top article and description from the website v
 
 Robin had serious interest in astronomy and was able to use her knowledge of data science and programming in order to build a web application that displays the data that she needs.
 
-  
+## Technologies
+
+* Splinter
+* BeautifulSoup
+* ChromeDriver
+* Pandas
+* Flask
+* Mongo DB
+* Python
